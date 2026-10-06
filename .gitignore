@@ -1,0 +1,11 @@
+data/raw/*
+data/interim/*
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+.DS_Store
