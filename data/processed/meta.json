@@ -1,0 +1,12 @@
+{
+  "treatments": 6790,
+  "genes": 12694,
+  "robust_silenced_genes": 1128,
+  "sources": {
+    "methylation": "CCLE RRBS TSS 1kb (2018-06-14), hg19",
+    "expression": "DepMap Public 26Q1",
+    "mutations": "DepMap Public 26Q1 hotspot matrix",
+    "drug response": "PRISM Repurposing 24Q2 extended primary (single 2.5 uM dose, 5 days)",
+    "replication": "Sanger GDSC1 and GDSC2 via DepMap (AUC_PUBLISHED)"
+  }
+}
